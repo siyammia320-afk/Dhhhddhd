@@ -1,0 +1,6 @@
+{
+  "name": "Secure Portal Pro",
+  "description": "Secure official workflow portal with activation key protection and automated helper tools",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
